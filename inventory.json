@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Vintage Leather Tote",
+    "price": 45,
+    "image": "images/leather-tote.svg",
+    "status": "Available"
+  },
+  {
+    "id": 2,
+    "name": "Designer Crossbody",
+    "price": 85,
+    "image": "images/crossbody.svg",
+    "status": "Available"
+  },
+  {
+    "id": 3,
+    "name": "Boho Clutch",
+    "price": 30,
+    "image": "images/clutch.svg",
+    "status": "Sold"
+  }
+]

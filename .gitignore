@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS generated
+Thumbs.db
+desktop.ini
+
+.cinminai/
+__pycache__/
+*.pyc
+*.o
